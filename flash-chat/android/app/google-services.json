@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859610094086",
+    "project_id": "flash-chat-dd408",
+    "storage_bucket": "flash-chat-dd408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859610094086:android:a62a03137fecf1e1a30187",
+        "android_client_info": {
+          "package_name": "co.sanikachandode.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859610094086-vcpc24qjtr3dqfg1g4n537r1ds765nsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5bp--rSAzU_vRSQ1BkJ7wFpxUFmYCp-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859610094086-vcpc24qjtr3dqfg1g4n537r1ds765nsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
